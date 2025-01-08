@@ -48,6 +48,12 @@ The Adventure Works dataset includes sales, product, and geographical data for t
 - Accessories had the lowest total quantity sold at **24.26 thousand**.
 
 
+# Pizza Sales Report Analysis
+
+![image](https://github.com/user-attachments/assets/56544947-a087-4c68-92cb-493e68f60282)
+
+
+
 
 
 
