@@ -40,7 +40,7 @@ The Adventure Works dataset includes sales, product, and geographical data for t
 - Profit showed an overall upward trend with a **167.40% increase** between **July 1, 2017** and **May 31, 2020**.
 - A significant decline in profit was observed between **July 6, 2019** and **August 18, 2019**:
   - Profit dropped at the lowest **-$76 thousand** in mid 2018 and also **-$32 thousand and 
-  -48 thousand** between mid 2019 and 2020.
+  -48 thousand** between mid 2019.
   - This decline was primarily due to **Bikes being sold at prices lower than their cost price**.
 
 ### 6. Total Quantity Sold
