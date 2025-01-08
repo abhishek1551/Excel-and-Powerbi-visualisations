@@ -52,6 +52,9 @@ The Adventure Works dataset includes sales, product, and geographical data for t
 
 ![image](https://github.com/user-attachments/assets/56544947-a087-4c68-92cb-493e68f60282)
 
+![image](https://github.com/user-attachments/assets/076f6a97-9f44-45a3-a962-95f70f80e558)
+
+
 
 
 
