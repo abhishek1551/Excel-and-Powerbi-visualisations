@@ -47,12 +47,20 @@ The Adventure Works dataset includes sales, product, and geographical data for t
 - **Bikes** had the highest total quantity sold at **71.88 thousand**, followed by Clothing, Components, and Accessories.
 - Accessories had the lowest total quantity sold at **24.26 thousand**.
 
+---
+
 
 # Pizza Sales Report Analysis
 
 ![image](https://github.com/user-attachments/assets/56544947-a087-4c68-92cb-493e68f60282)
 
 ![image](https://github.com/user-attachments/assets/076f6a97-9f44-45a3-a962-95f70f80e558)
+
+---
+![image](https://github.com/user-attachments/assets/68a353d3-b137-4c69-8ae0-7c078d11b2fd)
+
+![image](https://github.com/user-attachments/assets/2757ba9c-6d1f-4605-8f56-754ac413aa49)
+
 
 
 
